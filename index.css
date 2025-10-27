@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --klub-red: #D21E2B;
+  --klub-gold: #C6A753;
+  --klub-white: #FFFFFF;
+}
+
+.body-gradient {
+  background: linear-gradient(180deg, rgba(210,30,43,0.05), rgba(198,167,83,0.05));
+}
